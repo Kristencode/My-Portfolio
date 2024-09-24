@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.nav{
+    display: flex;
+    justify-content: end;
+    background-color:  hsl(226, 87%, 12%);
+    width: 100%;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.nav li{
+    list-style: none;
+    text-decoration: none;
+    margin: 20px;
+    font-size:x-large;
+    border-radius: 5px;
+    height: 20px;
+    text-align: center;   
+}
+
+
+
+h2{
+     color:hsl(226, 87%, 12%);
+ }
+
+ .alldiv li{
+         font-size: larger;
+     }
+
+   .second li{
+    font-size: larger;
+    
+   }

@@ -1,0 +1,56 @@
+body{
+    margin: 0;
+}
+
+
+.nav{
+    display: flex;
+    justify-content: end;
+    background-color:  hsl(226, 87%, 12%);
+    margin-top: 0;
+    width: 100%;
+    
+}
+
+.nav li{
+    list-style: none;
+    text-decoration: none;
+    margin: 20px;
+    font-size:x-large;
+    border-radius: 5px;
+    height: 20px;
+    text-align: center;
+    
+}
+
+
+li :hover{
+   color:black;
+    border-radius: 5px;
+    text-decoration: none;
+   
+}
+
+div{
+    max-width: 800px;
+  margin: auto;
+  color:  hsl(226, 87%, 12%);
+  font: bolder;
+  
+
+}
+
+
+p{
+   
+    font-size: x-large;
+    text-align: center;    }
+
+    a{
+        text-decoration: none;
+        color: white
+    }
+
+    span{
+        color: blue;
+    }

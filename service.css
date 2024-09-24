@@ -5,6 +5,7 @@ body{
 
 .nav{
     display: flex;
+    flex-direction: ;
     justify-content: end;
     background-color:  hsl(226, 87%, 12%);
     width: 100%;

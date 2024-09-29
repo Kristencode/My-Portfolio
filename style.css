@@ -1,5 +1,5 @@
 body{  
-     background-color:  hsl(226, 87%, 12%);
+     background-color:  hwb(291 0% 97% / 0.705);
 margin-top: 0;
 padding: 0;
     }
@@ -15,7 +15,6 @@ padding: 0;
         text-decoration: none;
         margin: 20px;
         font-size:x-large;
-        border-radius: 5px;
         height: 20px;
         text-align: center;
     }
@@ -81,7 +80,6 @@ h1{
     align-self: center;
     display: flex;
     flex-direction:row;
-    margin: -10px;
 }
 
 .logo img{
